@@ -1,0 +1,1 @@
+This is the text in the text file contained in my "Version Control Course" assignment.
