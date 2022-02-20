@@ -1,0 +1,1 @@
+This is the text file for VSCourse_Challenge_2. It contains a single line of text.
